@@ -19,7 +19,7 @@
             <artifactId>postgresql</artifactId>
             <version>42.2.23</version>
         </dependency>
-        <!-- Hibernate 5.2.6 Final -->
+        <!-- Hibernate -->
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
