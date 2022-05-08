@@ -31,6 +31,9 @@ COMMENT ON COLUMN public.books.book_author
 COMMENT ON COLUMN public.books.book_price
     IS 'Стоимость';
 
-insert into books (book_title, book_author, book_price) values ('Преступление и наказание', 'Достоевский', 100)
+insert into books (book_title, book_author, book_price) values ('Преступление и наказание', 'Достоевский', 100);
 
--- select * from books
+-- select * from books;
+
+-- select * from movie;
+-- delete from movie;
